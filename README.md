@@ -1,7 +1,7 @@
 
-![](img/Screenshot (65).png)
-![](img/Screenshot (66).png)
-![](img/Screenshot (67).png)
+![](img/Screenshot%20(65).png)
+![](img/Screenshot%20(66).png)
+![](img/Screenshot%20(67).png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
